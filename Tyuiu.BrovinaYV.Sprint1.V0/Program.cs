@@ -3,16 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.BrovinaYV.Sprint1.V0.Lib;
+using Tyuiu.BrovinaYV.Sprint1.V28.Lib;
 
-namespace Tyuiu.BrovinaYV.Sprint1.V0
+namespace Tyuiu.BrovinaYV.Sprint1.V28
 {
     class Program
     {
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #0 | Выполнила: Бровина Ю. В. | АСОиУБ-23-2";
+            Console.Title = "Спринт #1 | Выполнила: Бровина Ю. В. | АСОиУБ-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");

@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{19A5C4FD-D0DE-4ED1-A79C-FD5D92C3C4B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinaYV.Sprint1.V0", "Tyuiu.BrovinaYV.Sprint1.V0\Tyuiu.BrovinaYV.Sprint1.V0.csproj", "{F5B6E749-271F-4831-B5D6-EA947D0A5E27}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinaYV.Sprint1.V28", "Tyuiu.BrovinaYV.Sprint1.V0\Tyuiu.BrovinaYV.Sprint1.V28.csproj", "{F5B6E749-271F-4831-B5D6-EA947D0A5E27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinaYV.Sprint1.V0.Test", "Tyuiu.BrovinaYV.Sprint1.Test\Tyuiu.BrovinaYV.Sprint1.V0.Test.csproj", "{4F6A7334-5091-47C6-87D5-AD4BB835E0FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinaYV.Sprint1.V28.Test", "Tyuiu.BrovinaYV.Sprint1.Test\Tyuiu.BrovinaYV.Sprint1.V28.Test.csproj", "{4F6A7334-5091-47C6-87D5-AD4BB835E0FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinaYV.Sprint1.V0.Lib", "Tyuiu.BrovinaYV.Sprint1.Lib\Tyuiu.BrovinaYV.Sprint1.V0.Lib.csproj", "{6FB156A8-2773-4A37-81E2-038C9F81DB9F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinaYV.Sprint1.V28.Lib", "Tyuiu.BrovinaYV.Sprint1.Lib\Tyuiu.BrovinaYV.Sprint1.V28.Lib.csproj", "{6FB156A8-2773-4A37-81E2-038C9F81DB9F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{BF860FFC-18C5-4183-A95A-6C15B018A985}"
 EndProject
